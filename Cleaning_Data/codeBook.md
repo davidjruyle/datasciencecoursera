@@ -1,4 +1,4 @@
-#CodeBook for averages_data.txt
+#CodeBook for final_data.txt
 ##Data source
 
 This dataset is taken from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
