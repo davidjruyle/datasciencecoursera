@@ -41,7 +41,7 @@ Variables from these signals are:
     std(): Standard deviation
 
 
-run_analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+run_analysis.R contains all the code to perform the operations described in the 5 steps. They can be launched in RStudio by just importing the file.
 
-The output of the 5th step can be found in averages_data.txt. 
+The output of the 5th step can be found in final_data.txt. 
 
