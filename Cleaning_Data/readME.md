@@ -15,7 +15,7 @@ The activity labels are in the y_test.txt file. The test subjects are in the sub
 
 run_analysis.R will merge the test and training sets together. Prerequisites for this script:
 
-Download the UCI HAR Dataset into a directory of the same name.
+* Download the UCI HAR Dataset into a directory of the same name.
 
 After merging the testing and training, labels were added and only columns containing the mean and standard deviations were kept.
 
